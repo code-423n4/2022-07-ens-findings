@@ -1,0 +1,9 @@
+{
+  "contest": 145,
+  "handle": "durianSausage",
+  "address": "0xef70ccd1d2b1bbe1f6894e2d8b8a30897124b0ac",
+  "risk": "3",
+  "title": "H02: Any one will refound the all ETH to owner wallet or contract.",
+  "issueId": 39,
+  "issueUrl": "https://github.com/code-423n4/2022-07-ens-findings/issues/39"
+}
