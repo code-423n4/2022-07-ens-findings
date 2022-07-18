@@ -1,0 +1,9 @@
+{
+  "contest": 145,
+  "handle": "berndartmueller",
+  "address": "0x6a897b32996d342535791a74b8a40e75ddf2486e",
+  "risk": "2",
+  "title": "Use of Solidity's `transfer()` function might render ETH impossible to withdraw",
+  "issueId": 79,
+  "issueUrl": "https://github.com/code-423n4/2022-07-ens-findings/issues/79"
+}
