@@ -1,0 +1,9 @@
+{
+  "contest": 145,
+  "handle": "panprog",
+  "address": "0xf47974cad15c135445509ac670f531bbb9db5907",
+  "risk": "3",
+  "title": "Parent domain owner can steal ownership and clear any fuses for any sub-domain if CANNOT_UNWRAP is not burnt on his own domain",
+  "issueId": 102,
+  "issueUrl": "https://github.com/code-423n4/2022-07-ens-findings/issues/102"
+}
