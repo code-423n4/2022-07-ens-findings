@@ -1,0 +1,9 @@
+{
+  "contest": 145,
+  "handle": "scaraven",
+  "address": "0xac3a826c8ea76ab6fce817d3e54da0acb5fd30d5",
+  "risk": "3",
+  "title": "User can permanently claim .eth domain after registering with EthRegistrarController",
+  "issueId": 72,
+  "issueUrl": "https://github.com/code-423n4/2022-07-ens-findings/issues/72"
+}
