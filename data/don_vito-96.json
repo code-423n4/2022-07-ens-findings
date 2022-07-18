@@ -1,0 +1,9 @@
+{
+  "contest": 145,
+  "handle": "don_vito",
+  "address": "0x41aa8d6eda77535f922898be23194694e8427594",
+  "risk": "3",
+  "title": "WRONG PRICE CALCULATED FOR NON-18 DECIMALS POINTS TOKENS",
+  "issueId": 96,
+  "issueUrl": "https://github.com/code-423n4/2022-07-ens-findings/issues/96"
+}
