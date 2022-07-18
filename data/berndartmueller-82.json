@@ -1,0 +1,9 @@
+{
+  "contest": 145,
+  "handle": "berndartmueller",
+  "address": "0x6a897b32996d342535791a74b8a40e75ddf2486e",
+  "risk": "2",
+  "title": "Upgrading a non .eth domain can potentially overwrite already set `ttl`",
+  "issueId": 82,
+  "issueUrl": "https://github.com/code-423n4/2022-07-ens-findings/issues/82"
+}
