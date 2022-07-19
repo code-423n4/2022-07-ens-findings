@@ -1,0 +1,9 @@
+{
+  "contest": 145,
+  "handle": "cryptphi",
+  "address": "0x876133657f5356e376b7ae27d251444727ce9488",
+  "risk": "2",
+  "title": "NameWrapper._transferAndBurnFuses() allows reentrancy on onERC1155Received callback",
+  "issueId": 256,
+  "issueUrl": "https://github.com/code-423n4/2022-07-ens-findings/issues/256"
+}
