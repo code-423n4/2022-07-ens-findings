@@ -1,0 +1,9 @@
+{
+  "contest": 145,
+  "handle": "GimelSec",
+  "address": "0x8595B7e8F4d3287248DB45AcA4Ba4EaCFe4Ab78e",
+  "risk": "3",
+  "title": "`DNSSECImpl.verifySignature` compares strings incorrectly, allowing malicious zones to forge DNSSEC trust chain",
+  "issueId": 207,
+  "issueUrl": "https://github.com/code-423n4/2022-07-ens-findings/issues/207"
+}
