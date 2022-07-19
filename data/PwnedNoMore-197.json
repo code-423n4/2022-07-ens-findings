@@ -1,0 +1,9 @@
+{
+  "contest": 145,
+  "handle": "PwnedNoMore",
+  "address": "0xe03a2766325d914898cdA00d4EF927A305786Aa7",
+  "risk": "2",
+  "title": "[PNM-003] The preimage DB (i.e., `NameWrapper.names`) can be maliciously manipulated/corrupted",
+  "issueId": 197,
+  "issueUrl": "https://github.com/code-423n4/2022-07-ens-findings/issues/197"
+}
