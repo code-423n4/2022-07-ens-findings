@@ -1,0 +1,9 @@
+{
+  "contest": 145,
+  "handle": "hyh",
+  "address": "0x8efE50a4b8c8B64FDC93a5b1712Fd735d8223cD5",
+  "risk": "2",
+  "title": "ETHRegistrarController's register and renew use payable.transfer calls with an arbitrary receiver",
+  "issueId": 282,
+  "issueUrl": "https://github.com/code-423n4/2022-07-ens-findings/issues/282"
+}
