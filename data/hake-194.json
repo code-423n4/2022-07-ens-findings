@@ -1,0 +1,9 @@
+{
+  "contest": 145,
+  "handle": "hake",
+  "address": "0x14ca9669a2d8e353560b85474575c5ffde245220",
+  "risk": "2",
+  "title": "Native ETH transfer should use `call()` instead",
+  "issueId": 194,
+  "issueUrl": "https://github.com/code-423n4/2022-07-ens-findings/issues/194"
+}
