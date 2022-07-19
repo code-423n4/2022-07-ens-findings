@@ -1,0 +1,9 @@
+{
+  "contest": 145,
+  "handle": "dxdv",
+  "address": "0x086adc38cf301dd35d4c04ac17e772b3a3ce8d0d",
+  "risk": "2",
+  "title": "Missing `receive` function in`ETHRegistrarController` contract",
+  "issueId": 185,
+  "issueUrl": "https://github.com/code-423n4/2022-07-ens-findings/issues/185"
+}
