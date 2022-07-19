@@ -1,0 +1,9 @@
+{
+  "contest": 145,
+  "handle": "panprog",
+  "address": "0xf47974cad15c135445509ac670f531bbb9db5907",
+  "risk": "3",
+  "title": "If PARENT_CANNOT_CONTROL is set on subdomain, it can be unwrapped then wrapped by its owner and then parent can control it again before the expiry",
+  "issueId": 119,
+  "issueUrl": "https://github.com/code-423n4/2022-07-ens-findings/issues/119"
+}
