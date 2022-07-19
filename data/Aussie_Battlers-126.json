@@ -1,0 +1,9 @@
+{
+  "contest": 145,
+  "handle": "Aussie_Battlers",
+  "address": "0x6E93Aad801FB8cBf099190F0C0167F383Efa45C2",
+  "risk": "2",
+  "title": "Use `safeTransferFrom` instead of `transferFrom`",
+  "issueId": 126,
+  "issueUrl": "https://github.com/code-423n4/2022-07-ens-findings/issues/126"
+}
