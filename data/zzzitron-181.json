@@ -1,0 +1,9 @@
+{
+  "contest": 145,
+  "handle": "zzzitron",
+  "address": "0x50B6d717429F56527676d2431aAA5b3f0FA26a93",
+  "risk": "2",
+  "title": "RRUtils: serialNumberGte reverts when one of the time stamp is greater than Jan 19 2038",
+  "issueId": 181,
+  "issueUrl": "https://github.com/code-423n4/2022-07-ens-findings/issues/181"
+}
