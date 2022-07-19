@@ -1,0 +1,9 @@
+{
+  "contest": 145,
+  "handle": "wastewa",
+  "address": "0xaaadbbac0c00f44d658a5d5526da7e4b9a4dfef2",
+  "risk": "2",
+  "title": "Users can skirt fuses on subnodes",
+  "issueId": 117,
+  "issueUrl": "https://github.com/code-423n4/2022-07-ens-findings/issues/117"
+}
