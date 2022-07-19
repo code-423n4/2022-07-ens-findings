@@ -1,0 +1,9 @@
+{
+  "contest": 145,
+  "handle": "RedOneN",
+  "address": "0x19f2cdd5aaa2cdebce40caf2005543393b6e3d3c",
+  "risk": "2",
+  "title": "Use SAFETRANSFERFROM() instead of TRANSFERFROM() for ERC721 TRANSFERS",
+  "issueId": 266,
+  "issueUrl": "https://github.com/code-423n4/2022-07-ens-findings/issues/266"
+}
