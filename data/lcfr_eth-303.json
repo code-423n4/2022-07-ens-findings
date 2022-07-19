@@ -1,0 +1,9 @@
+{
+  "contest": 145,
+  "handle": "lcfr_eth",
+  "address": "0x328ebc7bb2ca4bf4216863042a960e3c64ed4c10",
+  "risk": "G",
+  "title": "Gas Optimizations",
+  "issueId": 303,
+  "issueUrl": "https://github.com/code-423n4/2022-07-ens-findings/issues/303"
+}
