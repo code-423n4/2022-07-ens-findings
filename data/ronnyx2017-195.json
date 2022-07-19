@@ -1,0 +1,9 @@
+{
+  "contest": 145,
+  "handle": "ronnyx2017",
+  "address": "0x86b474b800318d67b1c41a00ebfd259312a7ecd1",
+  "risk": "3",
+  "title": "ETHRegistrarController._setRecords can register invalid domains and to some degree, its possible to register any domain name",
+  "issueId": 195,
+  "issueUrl": "https://github.com/code-423n4/2022-07-ens-findings/issues/195"
+}
