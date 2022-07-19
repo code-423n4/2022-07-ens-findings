@@ -1,0 +1,9 @@
+{
+  "contest": 145,
+  "handle": "Chom",
+  "address": "0xc4c459668fb29833d7dee997d7d347e2634c9cef",
+  "risk": "2",
+  "title": "New parent node owner may steal all subnode back to himself. Despite it being sold to other person by the previous parent node owner.",
+  "issueId": 257,
+  "issueUrl": "https://github.com/code-423n4/2022-07-ens-findings/issues/257"
+}
