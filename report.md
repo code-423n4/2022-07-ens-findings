@@ -1,3 +1,11 @@
+---
+sponsor: "ENS"
+slug: "2022-07-ens"
+date: "2022-12-13"
+title: "ENS contest"
+findings: "https://github.com/code-423n4/2022-07-ens-findings/issues"
+contest: 145
+---
 
 # Overview
 
